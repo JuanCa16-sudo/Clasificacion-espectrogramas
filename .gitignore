@@ -1,0 +1,32 @@
+# Dataset y outputs (no subir al repo)
+spec_dataset/
+outputs/
+*.zip
+
+# Modelos entrenados
+*.keras
+*.h5
+*.pkl
+
+# Jupyter / Python cache
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+# Entornos virtuales
+.env
+venv/
+env/
+
+# Google Colab / Drive
+.config/
+drive/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs y temporales
+*.log
+*.tmp
